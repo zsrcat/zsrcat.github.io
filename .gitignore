@@ -1,2 +1,5 @@
 rubyinstaller
 DevKit
+_site
+Gemfile.lock
+Gemfile
